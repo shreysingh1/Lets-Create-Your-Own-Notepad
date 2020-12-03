@@ -1,0 +1,7 @@
+D:\Visual Basic\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\Visual Basic\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\Visual Basic\Notepad\Notepad\obj\x86\Debug\Notepad.Form1.resources
+D:\Visual Basic\Notepad\Notepad\obj\x86\Debug\Notepad.Properties.Resources.resources
+D:\Visual Basic\Notepad\Notepad\obj\x86\Debug\Notepad.csproj.GenerateResource.Cache
+D:\Visual Basic\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+D:\Visual Basic\Notepad\Notepad\obj\x86\Debug\Notepad.pdb
