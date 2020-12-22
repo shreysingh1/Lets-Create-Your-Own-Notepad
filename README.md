@@ -1,3 +1,3 @@
-# Lets-Create-Your-Own-Notepad
+# Lets-Create-Your-Our-Notepad
 # Creating this App by using C#.NET
 
